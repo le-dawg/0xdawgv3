@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Dawid. You can call me dawg.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      My heart beats for intelligent digital products. From industrial
+      applications to human-centered products on the end-user and system levels.
+      I write, I give talks, I consult, I build. 
     actions:
       - label: Let's talk
         url: /contact
