@@ -34,10 +34,12 @@ sections:
           fringilla, fringilla.
       - title: Inputs
         content: >
-          Fastest way to learn is to read filtered reading list. Check out my
-          collection of rabbit holes on **Token Engineering, Cyber-Physical
-          Systems, AutoML, Machine Learning, legacy and crypto startups **and
-          **consciousness engineering.**
+          Fastest way to learn is to cut through bullshit by relying on
+          qualified, filtered reading lists.
+
+          Check out my collection of rabbit holes on \*\*Token Engineering,
+          Cyber-Physical Systems, AutoML, Machine Learning, legacy and crypto
+          startups \*\*and **consciousness engineering.**
       - title: Outputs
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
