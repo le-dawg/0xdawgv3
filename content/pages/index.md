@@ -28,10 +28,8 @@ sections:
     is_numbered: true
     grid_items:
       - title: Work
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |
+          Short summary about the **what, when **and with **whom. **
       - title: Inputs
         content: >
           Fastest way to learn is to cut through bullshit by relying on
