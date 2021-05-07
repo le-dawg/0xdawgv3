@@ -33,10 +33,11 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
       - title: Inputs
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          Fastest way to learn is to read filtered reading list. Check out my
+          collection of rabbit holes on **Token Engineering, Cyber-Physical
+          Systems, AutoML, Machine Learning, legacy and crypto startups **and
+          **consciousness engineering.**
       - title: Outputs
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
