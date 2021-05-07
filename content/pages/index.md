@@ -29,7 +29,7 @@ sections:
     grid_items:
       - title: Work
         content: >
-          Short summary about the \*\*what, when \*\* and **with whom**. You can
+          Short summary about the **what**, **when** and **with whom**. You can
           also just check [LinkedIn](https://www.linkedin.com/in/dhoracy).
       - title: Inputs
         content: >
