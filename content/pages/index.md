@@ -41,10 +41,9 @@ sections:
           Cyber-Physical Systems, AutoML, Machine Learning, legacy and crypto
           startups \*\*and **consciousness engineering.**
       - title: Outputs
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Learn about **new New Work, mindsets for surviving in a decentralizing
+          world **and some helpful ways to **make sense of your life.**
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
