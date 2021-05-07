@@ -36,9 +36,9 @@ sections:
           Fastest way to learn is to cut through bullshit by relying on
           qualified, filtered reading lists.
 
-          Check out my collection of rabbit holes on \*\*Token Engineering,
-          Cyber-Physical Systems, AutoML, Machine Learning, legacy and crypto
-          startups \*\*and **consciousness engineering.**
+          Check out my collection of rabbit holes on **Token Engineering**,
+          **Cyber-Physical Systems**, **AutoML**, **Machine Learning**, **legacy
+          **and **crypto startups **and **self engineering.**
       - title: Outputs
         content: >
           Learn about **new New Work, mindsets for surviving in a decentralizing
