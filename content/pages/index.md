@@ -43,10 +43,6 @@ sections:
         content: >
           Learn about **new New Work, mindsets for surviving in a decentralizing
           world **and some helpful ways to **make sense of your life.**
-      - title: Service title
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
