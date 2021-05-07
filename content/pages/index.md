@@ -28,8 +28,9 @@ sections:
     is_numbered: true
     grid_items:
       - title: Work
-        content: |
-          Short summary about the \*\*what, when \*\*and with \*\***whom**. \*\*
+        content: >
+          Short summary about the **what, when **and **with whom**. You can also
+          just check [LinkedIn](https://www.linkedin.com/in/dhoracy).
       - title: Inputs
         content: >
           Fastest way to learn is to cut through bullshit by relying on
