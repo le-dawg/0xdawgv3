@@ -44,7 +44,7 @@ sections:
           world **and some helpful ways to **make sense of your life.**
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
+    title: Recent Blogs
     subtitle: An optional subtitle of the section
     posts_number: 3
     col_number: three
