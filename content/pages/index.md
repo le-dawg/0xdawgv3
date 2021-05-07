@@ -29,7 +29,7 @@ sections:
     grid_items:
       - title: Work
         content: |
-          Short summary about the **what, when **and with **whom. **
+          Short summary about the \*\*what, when \*\*and with \*\***whom**. \*\*
       - title: Inputs
         content: >
           Fastest way to learn is to cut through bullshit by relying on
