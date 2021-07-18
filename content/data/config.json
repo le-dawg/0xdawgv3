@@ -42,7 +42,7 @@
         "logo_img": "images/SMALL-KOMPLETE0xdawg2.0_light-copy.png"
     },
     "footer": {
-        "content": "&copy; Distributed Futures Ltd. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>.",
+        "content": "&copy; Distributed Futures Ltd. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Gatsby</a>.",
         "has_social": true,
         "social_links": [
             {
