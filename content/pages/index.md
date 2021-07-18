@@ -70,7 +70,7 @@ seo:
       value: 0xdawg HQ
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: Deep dives into Decentralization
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
