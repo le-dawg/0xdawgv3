@@ -16,7 +16,9 @@ sections:
         style: button
   - section_id: services
     type: section_grid
-    title: About the dawg
+    title: >-
+      Change my mind: DAOs lack a social contract and their success is built on
+      the externalization of the cost of the human condition.
     col_number: two
     is_numbered: true
     grid_items:
