@@ -38,7 +38,7 @@ sections:
         content: >
           Learn about **new New Work, mindsets for surviving in a decentralizing
           world **and some helpful ways to **make sense of your life.**
-      - title: lorem-ipsum
+      - title: Useful Guides & Resources
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
