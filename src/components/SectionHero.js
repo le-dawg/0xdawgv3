@@ -26,7 +26,6 @@ export default class SectionHero extends React.Component {
                 </div>
                 )}
               </div>
-              <div className="inner2">londonscam</div>
             </section>
         );
     }
