@@ -18,7 +18,7 @@ sections:
     type: section_grid
     title: >-
       Change my mind: DAOs lack a social contract and their success is built on
-      the externalization of the cost of the human condition.
+      the externalizing
     col_number: two
     is_numbered: true
     grid_items:
