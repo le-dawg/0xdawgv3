@@ -6,17 +6,11 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Hi there! Thank you so much for your interest in working together. Generic
+      online forms aren't the best UX - so why don't we speak on the usual
+      social media first? Of course, if you are determined, I invite you to book
+      a call where my calendar allows:
     type: section_content
   - section_id: contact-form
     type: section_form
