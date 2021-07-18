@@ -6,9 +6,10 @@ sections:
     type: section_hero
     title: 'Hi, I''m Dawid. You can call me dawg.'
     content: >
-      My heart beats for intelligent digital products. From industrial
-      applications to human-centered products on the end-user and system levels.
-      I write, I give talks, I consult, I build. 
+      I help web3 products come to life and stay relevant. I advise startups and
+      teams on tokenization and token economics (TE) and delivering UX research
+      (and more) @deepworkDAO. Find me on twitter or check out some of my work
+      here. 
     actions:
       - label: Let's talk
         url: /contact
