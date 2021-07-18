@@ -52,7 +52,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Recent Blogs
-    subtitle: An optional subtitle of the section
+    subtitle: Find them all on 
     posts_number: 0
     col_number: three
     actions:
