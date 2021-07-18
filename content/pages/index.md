@@ -79,7 +79,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: 0xdawg HQ
     - name: 'twitter:description'
       value: The preview of the Exto theme
     - name: 'twitter:image'
