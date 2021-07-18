@@ -28,6 +28,7 @@ export {
     SectionForm,
     SectionGrid,
     SectionHero,
+    Calendly,
     SectionPortfolio,
     SectionPosts,
     SectionTestimonials
