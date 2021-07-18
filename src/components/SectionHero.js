@@ -27,7 +27,7 @@ export default class SectionHero extends React.Component {
                 )}
                 {_.get(section, 'Calendly', null) && (
                 <div className="block-buttons inner-sm">
-                  <CtaButtons {...this.props} actions={_.get(section, 'actions', null)} />
+                  <Calendly {...this.props} actions={_.get(section, 'actions', null)} />
                 </div>
                 )}
               </div>
