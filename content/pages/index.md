@@ -41,10 +41,10 @@ sections:
       - title: Useful Guides & Resources
         image_alt: lorem-ipsum
         content: >
-          A growing list of resources ranging from *Personal Development* and*
-          Neuroscience*, Coding*, Philosophy of Decentralisation, Economics* and
-          more. Chaotic at the beginning, they will get better with time and
-          use. 
+          A growing list of resources ranging from ***Personal Development*****
+          and Neuroscience**, **Coding**, **Philosophy of Decentralisation,
+          Economics** and more. Chaotic at the beginning, they will get better
+          with time and use.
         actions: []
         type: grid_item
   - section_id: latest-posts
