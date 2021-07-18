@@ -27,7 +27,7 @@ export default class SectionHero extends React.Component {
                 )}
                 {_.get(section, 'Calendly', null) && (
                 <div className="block-buttons inner-sm">
-                  <Calendly actions={_.get(section, 'actions', null)} />
+                  <Calendly />
                 </div>
                 )}
               </div>
