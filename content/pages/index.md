@@ -53,7 +53,7 @@ sections:
     type: section_posts
     title: Recent Blogs
     subtitle: An optional subtitle of the section
-    posts_number: 3
+    posts_number: 0
     col_number: three
     actions:
       - label: View Blog
