@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Contact 0xdawg
 hide_title: true
 sections:
   - title: Contact
