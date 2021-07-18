@@ -36,8 +36,10 @@ sections:
           **legacy** and **blockchain startups **and **self engineering.**
       - title: Outputs
         content: >
-          Learn about **new New Work, mindsets for surviving in a decentralizing
-          world **and some helpful ways to **make sense of your life.**
+          Some of the things I've done (NDAs = sucuk) and things I've written.
+          Learn about **new New Work** , mindsets for surviving in a
+          decentralizing world and some productive outputs that are actually
+          helpful!
       - title: Useful Guides & Resources
         image_alt: lorem-ipsum
         content: >
