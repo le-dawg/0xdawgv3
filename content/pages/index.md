@@ -33,7 +33,7 @@ sections:
 
           Check out my collection of rabbit holes on **Token Engineering**,
           **Cyber-Physical Systems**, **AutoML**, **Machine Learning**,
-          **legacy** and **blockchain startups **and **self engineering.**
+          **legacy** and blockchain startups and **self engineering.**
       - title: Outputs
         content: >
           Some of the things I've done (NDAs = sucuk) and things I've written.
