@@ -1,7 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 
-
 export default class Calendly extends Component {
   componentDidMount() {
     const head = document.querySelector('head');
