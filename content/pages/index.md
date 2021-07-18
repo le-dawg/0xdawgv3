@@ -57,7 +57,7 @@ sections:
     col_number: three
     actions:
       - label: View Blog
-        url: blog
+        url: https://0xdawg.medium.com/
         style: button
 seo:
   title: 0xdawg HQ
