@@ -4,10 +4,11 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+    content: >
+      Hi there! Thank you so much for your interest in working together. Generic
+      online forms aren't the best UX - so why don't we speak on the usual
+      social media first? Of course, if you are determined, I invite you to book
+      a call where my calendar allows:
     form_id: contactForm
     form_action: /thank-you
     form_fields:
