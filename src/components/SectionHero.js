@@ -1,6 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
-import Calendly from './';
+import Calendly from './Calendly';
 import {markdownify} from '../utils';
 import CtaButtons from './CtaButtons';
 
