@@ -4,17 +4,10 @@ hide_title: true
 sections:
   - title: Contact
     section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Hi there! Thank you so much for your interest in working together. Why
+      don't we speak on the usual social media first? If you are determined, I
+      invite you to book a call where my calendar allows:
     actions: []
     type: section_hero
 seo:
