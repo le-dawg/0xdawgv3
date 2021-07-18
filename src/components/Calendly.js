@@ -14,7 +14,6 @@ export default class CtaButtons extends React.Component {
     }
 }
 
-
 class Calendly extends Component {
   componentDidMount() {
     const head = document.querySelector('head');
