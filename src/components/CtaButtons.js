@@ -1,15 +1,14 @@
-import React from 'react';
-import _ from 'lodash';
-
-import Action from './Action';
-
-export default class CtaButtons extends React.Component {
-    render() {
-        let actions = _.get(this.props, 'actions', null);
-        return (
-            _.map(actions, (action, action_idx) => (
-              <Action key={action_idx} {...this.props} action={action} />
-            ))
-        );
-    }
+import React from 'react'
+import {InlineWidget} from 'react-calendly'class Calendly extends Component {
+  componentDidMount() {
+    // whatever stuff you need here
+  }  componentWillUnmount() {
+    // whatever cleanup stuff you need here
+  }  render(){
+    return (
+      <div>
+        <InlineWidget url="https://calendly.com/username/15min" />
+      </div>
+    );
+  }
 }
