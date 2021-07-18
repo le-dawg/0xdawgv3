@@ -52,7 +52,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Recent Blogs
-    subtitle: Find them all on Medium\:
+    subtitle: Find them all on Medium
     posts_number: 0
     col_number: three
     actions:
