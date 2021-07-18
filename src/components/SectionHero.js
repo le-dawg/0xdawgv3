@@ -28,10 +28,10 @@ export default class SectionHero extends React.Component {
               </div>
               <div>
         <div id="schedule_form">
-          <div 
-            className="calendly-inline-widget"
-            data-url="https://calendly.com/dawg"
-            style={{ minWidth: '320px', height: '580px' }} />
+            <div 
+                className="calendly-inline-widget"
+                data-url="https://calendly.com/dawg"
+                style={{ minWidth: '320px', height: '580px' }} />
             </div>
         </div>
             </section>
