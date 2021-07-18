@@ -19,7 +19,6 @@ export default class SectionHero extends React.Component {
                 <div className="block-content inner-sm">
                   {markdownify(_.get(section, 'content', null))}
                 </div>
-                <div className="inner2">londonscam</div>
                 )}
                 {_.get(section, 'actions', null) && (
                 <div className="block-buttons inner-sm">
