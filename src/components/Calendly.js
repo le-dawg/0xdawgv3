@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-export default class Calendly extends Component {
+export default class Calendly extends React.Component {
   componentDidMount() {
     const head = document.querySelector('head');
     const script = document.createElement('script');
