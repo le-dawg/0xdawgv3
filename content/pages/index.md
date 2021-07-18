@@ -81,7 +81,7 @@ seo:
     - name: 'twitter:title'
       value: 0xdawg HQ
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: 0xdawg HQ
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
