@@ -32,7 +32,7 @@ export default class SectionHero extends React.Component {
             className="calendly-inline-widget"
             data-url="https://calendly.com/dawg"
             style={{ minWidth: '320px', height: '580px' }} />
-        </div>
+            </div>
       </div>
             </section>
         );
