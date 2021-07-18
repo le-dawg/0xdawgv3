@@ -5,7 +5,7 @@ import Footer from './Footer';
 import FormField from './FormField';
 import Header from './Header';
 import Layout from './Layout';
-import Calendly from './Layout
+import Calendly from './Calendly;
 import Icon from './Icon';
 import SectionContent from './SectionContent';
 import SectionForm from './SectionForm';
