@@ -60,7 +60,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: 0xdawg Homepage
+  title: 0xdawg HQ
   description: Deep dives into Decentralization
   extra:
     - name: 'og:type'
