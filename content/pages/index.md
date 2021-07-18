@@ -61,7 +61,7 @@ sections:
         style: button
 seo:
   title: 0xdawg Homepage
-  description: The preview of the Exto theme
+  description: Deep dives into Decentralization
   extra:
     - name: 'og:type'
       value: website
