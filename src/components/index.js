@@ -43,6 +43,7 @@ export default {
     Header,
     Layout,
     Icon,
+    Calendly,
     SectionContent,
     SectionForm,
     SectionGrid,
