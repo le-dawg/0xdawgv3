@@ -25,6 +25,11 @@ export default class SectionHero extends React.Component {
                   <CtaButtons {...this.props} actions={_.get(section, 'actions', null)} />
                 </div>
                 )}
+                {_.get(section, 'actions', null) && (
+                <div className="block-buttons inner-sm">
+                  <CtaButtons {...this.props} actions={_.get(section, 'actions', null)} />
+                </div>
+                )}
               </div>
             </section>
         );
