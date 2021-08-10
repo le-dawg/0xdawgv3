@@ -49,7 +49,7 @@ sections:
           with time and use.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: '#random'
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
