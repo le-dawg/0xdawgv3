@@ -11,7 +11,7 @@ logicFields:
   - section_portfolio.projects_number
   - section_posts.posts_number
 cmsName: git
-nodeVersion: 14
+nodeVersion: 12
 models:
   config:
     type: data
