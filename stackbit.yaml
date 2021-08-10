@@ -1,6 +1,5 @@
 stackbitVersion: ~0.3.0
 ssgName: nextjs
-ssgVersion: 9.4.4
 buildCommand: npm run build
 publishDir: out
 staticDir: public
@@ -11,6 +10,8 @@ pageLayoutKey: layout
 logicFields:
   - section_portfolio.projects_number
   - section_posts.posts_number
+cmsName: git
+nodeVersion: 14
 models:
   config:
     type: data
@@ -164,6 +165,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+        label: Seo
   blog:
     type: page
     urlPath: /blog
@@ -199,6 +201,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+        label: Seo
   portfolio:
     type: page
     urlPath: /portfolio
@@ -229,6 +232,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+        label: Seo
   page:
     type: page
     label: Page
@@ -258,6 +262,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+        label: Seo
   post:
     type: page
     urlPath: '/blog/{slug}'
@@ -302,6 +307,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+        label: Seo
   project:
     type: page
     urlPath: '/portfolio/{slug}'
@@ -342,6 +348,7 @@ models:
         name: seo
         models:
           - stackbit_page_meta
+        label: Seo
   section:
     type: object
     label: Section
@@ -360,9 +367,17 @@ models:
   section_content:
     type: object
     label: Content Section
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+        description: >-
+          A unique identifier that can be used when linking to this section.
+          Must not contain whitespace.
       - type: string
         name: subtitle
         label: Subtitle
@@ -379,12 +394,21 @@ models:
         name: content
         label: Content
         description: The text content of the section.
+    labelField: title
   section_form:
     type: object
     label: Form Section
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+        description: >-
+          A unique identifier that can be used when linking to this section.
+          Must not contain whitespace.
       - type: string
         name: subtitle
         label: Subtitle
@@ -415,12 +439,21 @@ models:
         name: submit_label
         label: Submit Button Label
         required: true
+    labelField: title
   section_grid:
     type: object
     label: Grid Section
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+        description: >-
+          A unique identifier that can be used when linking to this section.
+          Must not contain whitespace.
       - type: string
         name: subtitle
         label: Subtitle
@@ -445,12 +478,21 @@ models:
           type: model
           models:
             - grid_item
+    labelField: title
   section_hero:
     type: object
     label: Hero Section
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+        description: >-
+          A unique identifier that can be used when linking to this section.
+          Must not contain whitespace.
       - type: markdown
         name: content
         label: Content
@@ -462,12 +504,21 @@ models:
           type: model
           models:
             - action
+    labelField: title
   section_portfolio:
     type: object
     label: Portfolio Section
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+        description: >-
+          A unique identifier that can be used when linking to this section.
+          Must not contain whitespace.
       - type: string
         name: subtitle
         label: Subtitle
@@ -493,12 +544,21 @@ models:
         name: view_all_url
         label: All projects button URL
         default: '#'
+    labelField: title
   section_posts:
     type: object
     label: Posts Section
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+        description: >-
+          A unique identifier that can be used when linking to this section.
+          Must not contain whitespace.
       - type: string
         name: subtitle
         label: Subtitle
@@ -524,12 +584,21 @@ models:
           type: model
           models:
             - action
+    labelField: title
   section_testimonials:
     type: object
     label: Testimonials Section
-    extends:
-      - section
     fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the section.
+      - type: string
+        name: section_id
+        label: Element ID
+        description: >-
+          A unique identifier that can be used when linking to this section.
+          Must not contain whitespace.
       - type: string
         name: subtitle
         label: Subtitle
@@ -550,6 +619,7 @@ models:
           type: model
           models:
             - testimonial
+    labelField: title
   action:
     type: object
     label: Action
@@ -677,9 +747,13 @@ models:
       - type: string
         name: default_value
         description: The default value for textual field types.
+        label: Default Value
       - type: list
         name: options
         description: 'The list of options, used only when the field type is "select".'
+        label: Options
+        items:
+          type: string
       - type: boolean
         name: is_required
         label: Is the field required?
@@ -726,11 +800,15 @@ models:
             - type: string
               name: name
               default: ''
+              label: Name
             - type: string
               name: value
               default: ''
+              label: Value
             - type: string
               name: keyName
               default: name
+              label: Key Name
             - type: boolean
               name: relativeUrl
+              label: Relative Url
