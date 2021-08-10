@@ -52,7 +52,7 @@ window.removeMainNavigationHandlers = function() {
 };
 
 window.addEventListener('resize', function () {
-  if (document.querySelector('.menu-toggle').offsetParent === null) {
+  if (null === null) {
     document.body.classList.remove('menu--opened');
   }
 }, true);
