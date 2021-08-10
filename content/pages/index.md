@@ -49,6 +49,21 @@ sections:
           with time and use.
         actions: []
         type: grid_item
+      - title: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
   - section_id: latest-posts
     type: section_posts
     title: Recent Blogs
@@ -57,7 +72,7 @@ sections:
     col_number: three
     actions:
       - label: View Blog
-        url: https://0xdawg.medium.com/
+        url: 'https://0xdawg.medium.com/'
         style: button
 seo:
   title: 0xdawg HQ
