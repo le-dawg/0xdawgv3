@@ -51,17 +51,9 @@ sections:
         type: grid_item
       - title: '#random'
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Curated pickings from the web's trash swirl that shouldn't get lost in
+          some West Coast digital platform. 
         actions: []
         type: grid_item
   - section_id: latest-posts
