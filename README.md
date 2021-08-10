@@ -1,7 +1,5 @@
 # ✨ 0xdawgv3 ✨
 
-<img src="https://themes.stackbit.com/images/exto-demo-1024x768.png" width="600">
-
 This is a [Next.js](https://nextjs.org) site using Git as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
 
 You can [create a site](https://app.stackbit.com/create?theme=https://github.com/stackbit-themes/exto-unibit&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) just like this one, or explore some variations. How about a different:
