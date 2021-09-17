@@ -6,27 +6,23 @@
     "header": {
         "title": "0xdawg",
         "has_nav": false,
+        "commented": [
+                    {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link",
+                "new_window": true
+            },
+                    {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            }],
         "nav_links": [
             {
                 "label": "Home",
                 "url": "/",
                 "style": "link"
-            },
-            {
-                "label": "Portfolio",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link",
-                "new_window": true
             },
             {
                 "label": "About",
