@@ -1,9 +1,7 @@
 ---
-title: Style Guide
+title: 0xD Style Guide
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  This guide provides a blueprint of default post and page styles to make my life a bit easier when editing on the go.
 seo:
   title: 0xD Style Guide
   description: Suggested typographic treatment and style
@@ -36,7 +34,7 @@ layout: page
 ---
 # Suggested typographic treatment and style
 
-To make my life a bit easier when editing on the go.
+
 
 ---
 
