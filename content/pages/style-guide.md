@@ -5,19 +5,18 @@ subtitle: >-
   The style guide is also a great reference for suggested typographic treatment
   and styles for your content.
 seo:
-  title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
+  title: 0xD Style Guide
+  description: Suggested typographic treatment and style
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Theme Style Guide
+      value: 0xD Style Guide
       keyName: property
     - name: 'og:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        Suggested typographic treatment and style
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
@@ -29,12 +28,16 @@ seo:
       value: Theme Style Guide
     - name: 'twitter:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        Suggested typographic treatment and style
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
 layout: page
+---
+# Suggested typographic treatment and style
+
+To make my life a bit easier when editing on the go.
+
 ---
 
 **This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
