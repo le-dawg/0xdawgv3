@@ -701,6 +701,7 @@ models:
         label: /outputs
         description: outputs
         default: /outputs
+        const: /outputs
   testimonial:
     type: object
     label: Testimonial
