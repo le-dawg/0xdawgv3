@@ -46,13 +46,7 @@ sections:
           Some of the things I've done (that are not under NDA) and things I've
           written. Learn about **new new Work** , mindsets for the future.
           Complements **inputs** well!
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            icon: dribbble
-            new_window: false
-            no_follow: false
+        actions: []
       - title: Useful Guides & Resources
         image_alt: lorem-ipsum
         content: >
