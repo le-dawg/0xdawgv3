@@ -814,3 +814,6 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  clickgriditem:
+    type: object
+    label: clickgriditem
