@@ -677,7 +677,6 @@ models:
         name: title
         label: Title
         description: The title of the grid item.
-        default: /outputs
         const: /outputs
       - type: image
         name: image
