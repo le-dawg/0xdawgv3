@@ -823,3 +823,4 @@ models:
         label: /outputs
         description: /outputs
         default: /outputs
+        const: /outputs
