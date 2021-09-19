@@ -817,3 +817,6 @@ models:
   clickgriditem:
     type: object
     label: clickgriditem
+    fields:
+      - name: ''
+        type: string
