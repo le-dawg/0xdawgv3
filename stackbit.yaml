@@ -820,3 +820,5 @@ models:
     fields:
       - name: ''
         type: slug
+        label: /outputs
+        description: /outputs
