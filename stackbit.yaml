@@ -700,6 +700,7 @@ models:
         type: url
         label: /outputs
         description: outputs
+        default: /outputs
   testimonial:
     type: object
     label: Testimonial
