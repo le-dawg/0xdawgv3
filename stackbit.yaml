@@ -696,6 +696,8 @@ models:
           type: model
           models:
             - action
+      - name: ''
+        type: string
   testimonial:
     type: object
     label: Testimonial
