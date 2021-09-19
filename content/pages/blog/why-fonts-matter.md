@@ -1,6 +1,6 @@
 ---
 title: Why Fonts Matter
-excerpt: Shun goku statsu!
+excerpt: Shun goku satsu!
 date: '2019-03-27'
 thumb_image: images/12_thumb.jpg
 thumb_image_alt: A pile of books on the table
