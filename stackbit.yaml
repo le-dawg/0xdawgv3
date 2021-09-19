@@ -819,4 +819,4 @@ models:
     label: clickgriditem
     fields:
       - name: ''
-        type: string
+        type: slug
