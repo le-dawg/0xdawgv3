@@ -696,7 +696,7 @@ models:
           type: model
           models:
             - action
-      - name: ''
+      - name: Link
         type: string
   testimonial:
     type: object
