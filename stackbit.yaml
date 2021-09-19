@@ -822,3 +822,4 @@ models:
         type: slug
         label: /outputs
         description: /outputs
+        default: /outputs
