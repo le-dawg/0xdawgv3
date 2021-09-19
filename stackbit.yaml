@@ -681,6 +681,10 @@ models:
         name: image
         label: Image
         description: The image of the grid item.
+      - name: Link
+        type: slug
+        label: Link
+        default: /ou
       - type: string
         name: image_alt
         label: Image Alt Text
@@ -696,10 +700,6 @@ models:
           type: model
           models:
             - action
-      - name: Link
-        type: slug
-        label: Link
-        default: /ou
   testimonial:
     type: object
     label: Testimonial
