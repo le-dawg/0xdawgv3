@@ -28,7 +28,7 @@ sections:
           [LinkedIn](https://www.linkedin.com/in/dhoracy).
         actions:
           - label: lorem-ipsum
-            url: '#'
+            url: /ouputs
             style: link
             icon: dribbble
             new_window: false
