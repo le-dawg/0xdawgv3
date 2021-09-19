@@ -697,7 +697,7 @@ models:
           models:
             - action
       - name: ''
-        type: string
+        type: url
   testimonial:
     type: object
     label: Testimonial
