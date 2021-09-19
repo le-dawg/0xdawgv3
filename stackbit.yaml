@@ -698,6 +698,7 @@ models:
             - action
       - name: ''
         type: url
+        label: /outputs
   testimonial:
     type: object
     label: Testimonial
