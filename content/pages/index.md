@@ -26,7 +26,6 @@ sections:
         content: >
           Short summary about me. You can also just check
           [LinkedIn](https://www.linkedin.com/in/dhoracy).
-        actions: []
       - title: Inputs
         content: >
           Fastest way to learn is to cut through bullshit by relying on
@@ -40,7 +39,6 @@ sections:
           Some of the things I've done (that are not under NDA) and things I've
           written. Learn about **new new Work** , mindsets for the future.
           Complements **inputs** well!
-        actions: []
       - title: Useful Guides & Resources
         image_alt: lorem-ipsum
         content: >
@@ -57,20 +55,6 @@ sections:
           some West Coast digital platform. 
         actions: []
         type: grid_item
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions: []
   - section_id: latest-posts
     type: section_posts
     title: Recent Blogs
