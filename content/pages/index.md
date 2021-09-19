@@ -26,6 +26,13 @@ sections:
         content: >
           Short summary about me. You can also just check
           [LinkedIn](https://www.linkedin.com/in/dhoracy).
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
       - title: Inputs
         content: >
           Fastest way to learn is to cut through bullshit by relying on
