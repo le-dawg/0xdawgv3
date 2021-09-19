@@ -818,7 +818,7 @@ models:
     type: object
     label: clickgriditem
     fields:
-      - name: /outputs
+      - name: outputs
         type: slug
         label: /outputs
         description: /outputs
