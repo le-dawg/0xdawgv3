@@ -698,6 +698,7 @@ models:
             - action
       - name: Link
         type: slug
+        label: Link
   testimonial:
     type: object
     label: Testimonial
