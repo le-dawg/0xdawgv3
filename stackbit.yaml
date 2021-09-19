@@ -673,7 +673,7 @@ models:
     label: Grid Item
     labelField: title
     fields:
-      - type: slug
+      - type: string
         name: title
         label: Title
         description: The title of the grid item.
