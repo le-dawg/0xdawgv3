@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Dawid. You can call me dawg.'
+    title: 'Hi, I''m Dawid. Call me dawg.'
     content: >
       I help web3 products come to life and stay relevant. I advise startups and
       teams on tokenization and token economics (TE),  and delivering UX
