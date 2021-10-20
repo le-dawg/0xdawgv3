@@ -6,10 +6,13 @@ sections:
     type: section_hero
     title: 'Hi, I''m Dawid. Call me dawg.'
     content: >
-      I help web3 products come to life and stay relevant. I advise startups and
-      teams on tokenization and token economics (TE),  and delivering UX
-      research (and more) @deepworkDAO. You can find me on on most most
-      crypto-focused media.
+      I help web3 products come to life and stay relevant. With Code, Network,
+      Facilitation and Design. I contribute to the TEC, foundryDAO, DeepWorkDAO
+      and I advise on tokenization, token economics,  and UX research (and more)
+      @deepworkDAO. 
+
+      **If you are involved in mechanism design for combating climate change, we
+      should talk.**
     actions:
       - label: Let's talk
         url: /contact
